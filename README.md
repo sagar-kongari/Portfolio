@@ -12,4 +12,4 @@ Welcome to my Data Portfolio. Here, I documnet all my works.
 
 ## 🤔 Ongoing
 
-Currently, I'm working on Object Detection model in deep learning with python.
+Currently, I'm working on Object Detection model with python.
