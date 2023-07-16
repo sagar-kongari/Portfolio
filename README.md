@@ -1,8 +1,8 @@
 # 🗺️: Sagar's Portfolio
 
-Welcome to my Data Portfolio. Here, I documnet all my works.
+## ***Access all my mini data-science projects [here](https://github.com/skadoozy/Practice-Data-Science).***
 
-## 🐍 Python &  📙 Jupyter Notebook
+## ***🐍 Python & Jupyter Notebook***
 
 | Project | Area of Focus | Library / Dependency | Description |
 |---|---|---|---|
@@ -10,6 +10,6 @@ Welcome to my Data Portfolio. Here, I documnet all my works.
 | [**News-Scrape-Summarize-Sentiment**](https://github.com/skadoozy/News-Scrape-Summarize-Sentiment) | Nautral Language Processing (NLP) | `requests` `beautifulSoup` `tensorflow` `transformers` `pegasus` `pipeline` | Automating scraping of financial news from the web, summarizing parsed texts, performing sentiment analysis and exporting results as a CSV file. |
 | [**Cifar10-ANN-CNN**](https://github.com/skadoozy/Cifar10-ANN-CNN) | Deep Learning | `tensorflow` `Conv2D` `MaxPooling2D` | Difference in performance between an artificial neural network and Convolutional neural network in classifying image dataset. |
 
-## 🤔 Ongoing
+## ***🙇‍♂️ Ongoing***
 
 Currently, I'm working on Object Detection model with python.
