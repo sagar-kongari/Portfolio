@@ -11,5 +11,12 @@ Greetings!🙏 Here's a gist of my Data Portfolio.
 | [**🌻Cifar10 Classification**](https://github.com/skadoozy/Cifar10-ANN-CNN/blob/main/README.md) | Deep Learning | Image classification using Artificial neural network and Convolutional neural network. Which one performs better? |
 > Also, take a look on my mini-projects [here](https://github.com/skadoozy/Practice-Data-Science/blob/main/README.md).
 
+
+## SQL
+| Project | Status | Description |
+|:---:|:---:|:---|
+| **[🎱 8week SQL Challenge](https://github.com/skadoozy/8week-SQL-Challenge)** | Ongoing | Solve Numerous problem statements. Fun & intuitive way to learn and practice SQL. |
+
+
 ## Currently, I'm working on...
-- Object Detection model with python.
+- Tableau Dashboard.
